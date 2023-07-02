@@ -1,1 +1,1 @@
-# gym-kr-ly-jaan.github.io
+# GYM-jan.github.io
